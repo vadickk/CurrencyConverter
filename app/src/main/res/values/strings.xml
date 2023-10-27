@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="converter">Converter</string>
+    <string name="history">History</string>
+    <string name="enter_value_error">Please enter a value</string>
+    <string name="choose_item_error">Please choose an item</string>
+    <string name="result">Result:</string>
+</resources>
